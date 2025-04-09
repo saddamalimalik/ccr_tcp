@@ -5,7 +5,7 @@
 #   Added code to check incoming private message from twitter
 
 # V1.4:
-#   Added the save to file for record feature
+#   Added the save to file for record feature3
 
 # V1.5:
 #   Added the code to check if ICP2 controller is faulty or not, Raises the alarm if "Try 0" is found in door entry field
